@@ -15,14 +15,15 @@ body{
 	padding: 20px 20px;
 }
 
-.cont1, .cont2, .cont3{
+.latest-news-section, .cont2, .pictorial-news-section{
 	border-radius: 5px;
 	background-color: white;
 	padding: 5px 15px;
 	height: auto;
+	text-align: center;
 }
 
-.cont1{
+.latest-news-section{
 	width: 25%;
 	margin: 10px;
 	height: 200px;
@@ -32,7 +33,7 @@ body{
 	margin: 10px;
 	height: 250px;
 }
-.cont3{
+.pictorial-news-section{
 	width: 25%;
 	margin: 10px;
 }
